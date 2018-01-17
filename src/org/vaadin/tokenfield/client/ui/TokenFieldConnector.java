@@ -1,11 +1,11 @@
-package org.vaadin.tokenfield.client.ui;
+package org.vaadin.v7.tokenfield.client.ui;
 
-import org.vaadin.tokenfield.TokenComboBox;
-import org.vaadin.tokenfield.client.ui.VTokenField.DeleteListener;
+import org.vaadin.v7.tokenfield.TokenComboBox;
+import org.vaadin.v7.tokenfield.client.ui.VTokenField.DeleteListener;
 
 import com.google.gwt.core.client.GWT;
 import com.vaadin.client.communication.RpcProxy;
-import com.vaadin.client.ui.combobox.ComboBoxConnector;
+import com.vaadin.v7.client.ui.combobox.ComboBoxConnector;
 import com.vaadin.shared.ui.Connect;
 
 @Connect(TokenComboBox.class)

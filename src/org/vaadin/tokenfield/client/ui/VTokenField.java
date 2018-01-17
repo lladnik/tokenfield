@@ -1,4 +1,4 @@
-package org.vaadin.tokenfield.client.ui;
+package org.vaadin.v7.tokenfield.client.ui;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.List;
 import com.google.gwt.event.dom.client.KeyCodes;
 import com.google.gwt.event.dom.client.KeyDownEvent;
 import com.google.gwt.user.client.ui.TextBox;
-import com.vaadin.client.ui.VFilterSelect;
+import com.vaadin.v7.client.ui.VFilterSelect;
 
 public class VTokenField extends VFilterSelect {
 

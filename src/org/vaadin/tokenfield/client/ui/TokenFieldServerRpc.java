@@ -1,4 +1,4 @@
-package org.vaadin.tokenfield.client.ui;
+package org.vaadin.v7.tokenfield.client.ui;
 
 import com.vaadin.shared.communication.ServerRpc;
 
